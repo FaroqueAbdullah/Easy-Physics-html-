@@ -1,0 +1,13 @@
+
+.first_div_p{
+  margin-left: 30px;
+  color: gray;
+}
+
+.first_div_p:hover{
+  color: white;
+}
+.first_div_h6{
+  margin-left: 10px;
+  color: gray;
+}

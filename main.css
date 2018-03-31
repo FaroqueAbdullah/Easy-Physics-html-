@@ -1,0 +1,80 @@
+.index_bg {
+    background-image: url("image/cover4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+
+.hei{
+  height: 380px;
+  width: 400px;
+  border-radius: 50%;
+  text-align: center;
+  background: #ADA996;  /* fallback for old browsers */
+}
+
+.hei:hover{
+  height: 380px;
+  width: 410px;
+  border-radius: 15%;
+  background: white;
+  box-shadow: 15px 15px 7px #888888;
+}
+
+.table_font{
+  color:white;
+  font-family: Algerian;
+  text-decoration: underline;
+}
+
+.div_margin{
+  margin-top: 25px;
+}
+
+.introduction_div{
+  height: 500px;
+  width: 900px;
+  background:black;
+  border-radius: 10%;
+  align-items: center;
+  margin-top: 100px;
+
+}
+
+.tutor_intro{
+  background-color:white;
+  border-radius: 10%;
+  height:300px;
+  width:1200px;
+  text-align: center;
+  margin-top: 100px;
+  border: 2px solid black;
+}
+
+.ref_image{
+   width:150px;
+   height:150px;
+}
+
+.ref_image:hover{
+  width:220px;
+  height:220px;
+}
+
+.footer_style{
+  height: 50px;
+  width: 100%;
+  background-color:#283747;
+  margin-top: 50px;
+  border-radius: 2%;
+}
+
+.logo{
+  height: 150px;
+  width: 150px;
+  border-radius: 40%;
+  text-align: center;
+  background: gray;  /* fallback for old browsers */
+}
